@@ -9,11 +9,14 @@ This research is devoted to the influence of provenance of works of art on their
 
 # Team roles:
 Vladislav Golovnickij - Web development, data visualization/collection
+<br>
 Nikas Solovej - data collection/analysis, storytelling
 
 website -
 
 ### Credits
 Openartdata data are available under CC0 license
+<br>
 Proveana data are available under CC0 license
+<br>
 Project materials, website and data are licensed under CC BY 4.0 licence.
